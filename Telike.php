@@ -1,5 +1,5 @@
 <?php
 
-const https://raw.githubusercontent.com/Edisantoso89/Djmaru.io/main/Taiklah.html
+const 127.0.0.1:5098
 
 ?>
